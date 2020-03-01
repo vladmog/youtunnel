@@ -101,7 +101,6 @@ S.Container = styled.div`
       font-size: 12px;
       a {
         color: grey;
-        text-decoration: none;
       }
     }
     div:nth-child(2) {
