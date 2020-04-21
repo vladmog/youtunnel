@@ -17,7 +17,7 @@ S.Container = styled.div`
 
   h1 {
     font-family: 'Oswald' ;
-    color: white;
+    color: red;
     font-size: 48px;
     margin: 0px;
 
