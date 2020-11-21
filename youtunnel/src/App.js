@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import styled from "styled-components";
-import {Redirect} from "react-router-dom";
+// import {Redirect} from "react-router-dom";
 import { ReactComponent as SearchSvg } from "./img/search (1).svg"
 
 const S = {};
